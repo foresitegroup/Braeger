@@ -1,0 +1,78 @@
+/*
+#322515 - brown
+#641D00 - red brown
+#ED1C24 - red
+*/
+
+* {
+	font-family: Georgia, serif;
+}
+
+BODY {
+  margin: 0;
+  padding: 0;
+  background: #FFFFFF;
+  color: #641D00;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+
+IMG {
+  border: 0;
+}
+
+HR {
+  border: none 0;
+  border-top: 1px solid #641D00; /* the border */
+  height: 1px; /* whatever the total width of the border-top and border-bottom equal */
+}
+
+FORM {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+A:link, A:visited {
+  color: #322515;
+  text-decoration: none;
+}
+A:hover, A:active {
+  color: #641D00;
+  text-decoration: none;
+}
+
+H1 {
+  font-size: 28px;
+	margin-bottom: 3px;
+}
+
+H2 {
+  margin-top: 0;
+  font-size: 20px;
+  color: #ED1C24;
+}
+
+UL, OL {
+	margin: 0 0 0 0.6em;
+	padding: 0 0 0 0.6em;
+}
+
+UL {
+	list-style-type: disc;
+}
+
+P {
+	margin-bottom: 0px;
+	display: inline-block;
+}
+
+.right {
+	float: right;
+	margin-left: 25px;
+}
+
+.left {
+	float: left;
+	margin-right: 25px;
+}
