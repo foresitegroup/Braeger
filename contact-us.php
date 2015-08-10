@@ -34,9 +34,9 @@ if (isset($_POST['submit'])) {
     <br>
 
     Braeger Financial Group, LLC<br>
-    135 West Wells Street<br>
-    Suite 340<br>
-    Milwaukee, WI  53203
+    1123 North Water Street<br>
+    Suite 400<br>
+    Milwaukee, WI 53202
   </div>
 
   <script type="text/javascript">
