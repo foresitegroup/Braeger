@@ -6,13 +6,6 @@ include "header.php";
 <h1>Welcome to the Braeger Auto Finance Group</h1>
 
 <div class="right" style="width: 400px;">
-  <a href="media.php" style="display: block; text-align: center; font-weight: bold; outline: 0;">
-    <img src="images/spiff-youtube.jpg" alt=""><br>
-    Learn more &raquo;
-  </a>
-
-  <br><br>
-
   <img src="images/automotivefund.png" alt="AutomotiveFund"><br>
   <span style="font-size: 80%; line-height: 1.1em;">If you have been redirected here via AutomotiveFund.com, please note that the Internet Investment Portal that we marketed through has been discontinued. We have decided to take a more direct, personalized approach to building a relationship with our investors, and have abandoned the crowdfunding approach. The investment options are the same. Only the process has changed.</span>
 </div>
