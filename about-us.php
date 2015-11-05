@@ -21,16 +21,12 @@ include "header.php";
 
 <img src="images/about-us.jpg" alt="" class="right">
 
-Braeger Auto Finance Group is a Milwaukee-based, privately owned, automobile financing source.  We help independent car dealers who offer their own retail sales contracts and leases to continue to service and collect on those loan notes until maturity.<br>
+Braeger Finance is a Milwaukee-based, privately owned, automobile financing source.  We help independent car dealers who offer their own retail sales contracts and leases to continue to service and collect on those loan notes until maturity.<br>
 <br>
 
 Our business model allows dealers across the country to continue to build their loan portfolios, which enables them to develop long-term relationships with their retail customers and continue building equity in their business, as opposed to having institutions profit from the purchase of their notes.<br>
 <br>
 
-Specifically, we provide financial support to independent used car dealers with inventory financing.  This allows them to acquire additional inventory and not have the loan retired upon the sale of the vehicle.<br>
-<br>
-
-Braeger Auto Finance Group recognizes that the $100 billion non-prime auto finance market presents attractive yields to accredited investors, while offering dealers a proven path to building the value of their business.
-
+Braeger Finance recognizes that the $100 billion non-prime auto finance market presents attractive yields to accredited investors, while offering dealers a proven path to building the value of their business.
 
 <?php include "footer.php"; ?>

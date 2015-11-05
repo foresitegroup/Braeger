@@ -33,7 +33,7 @@ if (isset($_POST['submit'])) {
     We welcome your questions, comments and inquiries.  Please use the convenient form, or contact us directly at 1-844-BRAEGER (1-844-272-3437).  We will be happy to assist you!<br>
     <br>
 
-    Braeger Financial Group, LLC<br>
+    Braeger Finance, LLC<br>
     1123 North Water Street<br>
     Suite 400<br>
     Milwaukee, WI 53202

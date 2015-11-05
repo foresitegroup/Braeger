@@ -12,8 +12,8 @@ function email($address, $name="") {
 <head>
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
-  <title>Braeger Auto Finance Group<?php if ($PageTitle != "") echo " | " . $PageTitle; ?></title>
-  <meta name="description" content="Braeger Auto Finance Group, LLC is a finance company providing capital support to independent used car dealers to improve their credit facility and lower their cost of funds, by raising capital via secured debentures to qualified financial partners, both individuals and institutions.">
+  <title>Braeger Finance<?php if ($PageTitle != "") echo " | " . $PageTitle; ?></title>
+  <meta name="description" content="Braeger Finance, LLC is a finance company providing capital support to independent used car dealers to improve their credit facility and lower their cost of funds, by raising capital via secured debentures to qualified financial partners, both individuals and institutions.">
   <meta name="keywords" content="Braeger Financial Group, Braeger Auto Finance Group, Dave Braeger, Gary Bakker, investment, investor, auto finance, credit facility, secure, secured, debenture, financing, capital, independent, used car, auto, auto dealer, floorplan, individual investing, institutional investing, subprime">
   <meta name="author" content="Foresite Group">
 
@@ -70,7 +70,7 @@ function email($address, $name="") {
 
 <div id="header-wrap">
   <div id="header">
-    <a href="<?php echo $TopDir; ?>."><img src="<?php echo $TopDir; ?>images/logo.png" alt="Braeger Financial Group" id="logo"></a>
+    <a href="<?php echo $TopDir; ?>."><img src="<?php echo $TopDir; ?>images/braeger-logo.png" alt="Braeger Finance" id="logo"></a>
 
     <ul id="menu">
       <li><a href="<?php echo $TopDir; ?>.">Home</a></li>
@@ -84,10 +84,9 @@ function email($address, $name="") {
         </ul>
       </li>
       <li>
-        <a href="<?php echo $TopDir; ?>auto-finance-renewable-note-program.php">Auto Finance Renewable Note Program</a>
+        <a href="<?php echo $TopDir; ?>financial-offerings.php">Financial Offerings</a>
         <ul>
-          <li><a href="<?php echo $TopDir; ?>auto-finance-renewable-note-program.php">Introduction</a></li>
-          <li><a href="<?php echo $TopDir; ?>note-description.php">Note Description</a></li>
+          <li><a href="<?php echo $TopDir; ?>financial-offerings.php">Introduction</a></li>
           <li><a href="<?php echo $TopDir; ?>note-advantage.php">Note Advantage</a></li>
           <li><a href="<?php echo $TopDir; ?>braeger-advantage.php">Braeger Advantage</a></li>
         </ul>

@@ -6,7 +6,7 @@ include "header.php";
 
 <h2>
   GARY BAKKER
-  <span class="bio-title">COO Braeger Financial Group</span>
+  <span class="bio-title">COO Braeger Finance</span>
   <a href="http://www.linkedin.com/in/garysbakker/"><img src="images/icon-linkedin.png" alt="LinkedIn" style="vertical-align: text-top;"></a>
 </h2>
 <br>
@@ -14,7 +14,7 @@ include "header.php";
 <img src="images/gary-bakker.jpg" alt="Gary Bakker" class="right">
 
 <div style="float: left; width: 745px;">
-  Gary Bakker, Chief Operating Officer of Braeger Financial Group, has been in the Financial Services and Technology industries for over 35 years.<br>
+  Gary Bakker, Chief Operating Officer of Braeger Finance, has been in the Financial Services and Technology industries for over 35 years.<br>
   <br>
 
   Gary has held senior leadership positions in organizations ranging from small software companies to multi-billion dollar international corporations.  He has led significant business units as Division President, responsible for both backroom operational functions and customer facing relationship management, to deliver high quality and responsive client interactions.<br>
