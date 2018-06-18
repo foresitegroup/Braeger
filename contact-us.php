@@ -29,8 +29,9 @@ if (isset($_POST['submit'])) {
   echo "Thank you for your interest in Braeger Fininacial Group.<br>You will be contacted soon.";
 } else {
 ?>
-  <div style="float: left; width: 400px;">
-    We welcome your questions, comments and inquiries.  Please use the convenient form, or contact us directly at 1-844-BRAEGER (1-844-272-3437).  We will be happy to assist you!<br>
+  <!-- <div style="float: left; width: 400px;"> -->
+  <div>
+    We welcome your questions, comments and inquiries.  Contact us directly at 1-844-BRAEGER (1-844-272-3437).  We will be happy to assist you!<br>
     <br>
 
     Braeger Finance, LLC<br>
@@ -51,7 +52,7 @@ if (isset($_POST['submit'])) {
     //-->
   </script>
 
-  <form action="contact-us.php" method="POST" onSubmit="return checkform(this)" style="float: right; width: 360px; margin-right: 100px;">
+<!--   <form action="contact-us.php" method="POST" onSubmit="return checkform(this)" style="float: right; width: 360px; margin-right: 100px;">
     <div>
       <div style="float: left; width: 50px;"><strong>Name</strong></div>
       <input type="text" name="name" style="width: 300px;"><br>
@@ -73,7 +74,7 @@ if (isset($_POST['submit'])) {
     </div>
   </form>
   
-  <div style="clear: both;"></div>
+  <div style="clear: both;"></div> -->
 <?php } ?>
 
 <?php include "footer.php"; ?>
